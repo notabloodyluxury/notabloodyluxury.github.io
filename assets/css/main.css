@@ -1,0 +1,87 @@
+body {
+	font-family: Avenir;
+	font-size: 80px;
+	color:#00CED1;
+	background-color:#d55d5d;
+}
+
+a {
+	color:#00CED1;
+	text-decoration: none;
+	font-size:20px;
+	padding:15px;
+	background-color: #A52A2A;
+	display:inline-block;
+	border-radius:8px;
+	color:#d55d5d;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+
+/* When you first edit this file, you can delete everything below here. Remember you should use body to target all elements on the page first and then override them later  */
+
+/* EXAMPLE CODE PLEASE REMOVE */
+
+.title{
+	width:90%;
+	padding:20px;
+	margin:auto;
+
+}
+
+.links {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.title img{
+	width:100%;
+}
+
+.bio{
+	font-size:45px;
+	text-align:center;
+
+}
+
+.bitmoji{
+	width:75%;
+	border:3px;
+	margin:auto;
+
+}
+.bitmoji img {
+	width:100%;
+}
+
+.main {
+	border: 2px solid black;
+	padding: 20px;
+	margin-top:100px;
+	margin-bottom:100px;
+	width:500px;
+}
+
+.block {
+	display: inline-block;
+	padding: 20px;
+	width:200px;
+	background-color:black;
+	color:#fff;
+}
+
+.centerblock {
+	width:500px;
+	margin: auto;
+}
+
+.centerblock img {
+	width: 100%;
+}
